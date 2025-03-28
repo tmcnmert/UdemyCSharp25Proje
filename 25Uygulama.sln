@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01NotKayitSistemi", "..\..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02Veri_Tabanli_Parti_Secim_Grafik_İstatistik", "..\..\..\Desktop\_07VeriTabanliPartiSecimGrafikİstatistik\_02Veri_Tabanli_Parti_Secim_Grafik_İstatistik.csproj", "{3B1595B7-4BE6-4170-8E50-A20D853A8192}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_12SqlSorguSistemi", "_12SqlSorguSistemi\_12SqlSorguSistemi.csproj", "{06068D06-6BD5-4F79-A9A0-290275EFBDFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{3B1595B7-4BE6-4170-8E50-A20D853A8192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B1595B7-4BE6-4170-8E50-A20D853A8192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B1595B7-4BE6-4170-8E50-A20D853A8192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06068D06-6BD5-4F79-A9A0-290275EFBDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06068D06-6BD5-4F79-A9A0-290275EFBDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06068D06-6BD5-4F79-A9A0-290275EFBDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06068D06-6BD5-4F79-A9A0-290275EFBDFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
