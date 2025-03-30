@@ -33,3 +33,18 @@ Bu proje ile oluşturulan winform üzerinde richtextbox' a yazacağınız sql so
 
 
 
+
+
+
+
+
+
+
+
+
+22-Rss İle Haber Başlıkları Çekme
+Bu projede Xml paketi ile winform' da listbox' a istediğimiz haber sitesinin günlük haber başlıklarının çekilmesi sağlanmıştır.
+
+
+
+
