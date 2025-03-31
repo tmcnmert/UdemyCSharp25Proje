@@ -4,6 +4,9 @@ Proje giriş sayfası, öğretmen işlemleri sayfası ve öğrenci bilgi sayfas�
 2-Grafiksel Seçim Sistemi
 Seçim bölgelerinin ve oy oranları veri tabanına kayıt edildikten sonra seçim sonuçlarının grafik olarak yansıtılması. 
 
+3-Passaparola Oyunu
+Bu proje, C# ile Windows Form uygulaması olarak geliştirilmiş bir "Passaparola" (Kelime Tahmin) oyunudur. Oyunda kullanıcıya belirli harflerle başlayan sorular sorulur ve doğru cevap verdiğinde ilgili buton yeşil, yanlış cevap verdiğinde kırmızı olur.
+
 
 
 
