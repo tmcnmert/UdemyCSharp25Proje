@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03PassaparolaOyunu", "_03P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_06İliskiliVeriTabaniHaraketTabloVeSorgulamaUygulamasi", "_06İliskiliVeriTabaniHaraketTabloVeSorgulamaUygulamasi\_06İliskiliVeriTabaniHaraketTabloVeSorgulamaUygulamasi.csproj", "{986E2B81-1565-4229-A461-AB16122BC820}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08NesneHareketleri", "_08NesneHareketleri\_08NesneHareketleri.csproj", "{DA9BDC7A-5D82-45F1-98D1-0E20802DAD08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{986E2B81-1565-4229-A461-AB16122BC820}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{986E2B81-1565-4229-A461-AB16122BC820}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{986E2B81-1565-4229-A461-AB16122BC820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9BDC7A-5D82-45F1-98D1-0E20802DAD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9BDC7A-5D82-45F1-98D1-0E20802DAD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9BDC7A-5D82-45F1-98D1-0E20802DAD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9BDC7A-5D82-45F1-98D1-0E20802DAD08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
