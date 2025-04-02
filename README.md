@@ -23,7 +23,8 @@ Bu program, SQL Server kullanılarak oluşturulan bir veritabanına favori filml
 7-İngilizce Sözlük
 Bu projede access veri tabanı kullanılarak oluşturulan İngilizce kelimeler ve Türkçe karşılıklarını içeren  kullanıcıların 90 saniye içinde doğru bildikleri kelime sayısını  tutulması sağlanmıştır.
 
-
+8-Nesnelerin Hareketi
+Bu proje, C# Windows Forms kullanarak bir PictureBox nesnesinin dikdörtgen bir yol boyunca sürekli hareket etmesini sağlar.
 
 
 12-Form Üzerinde SQL Sorguları Çalıştırma Uygulaması
