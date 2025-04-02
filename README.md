@@ -16,8 +16,6 @@ Bu program, SQL Server kullanılarak oluşturulan bir veritabanına favori filml
 6-İlişkili Veri Tabanı Hareket Tablo ve Sorgulama Uygulaması
 Bu proje, bir mağaza veritabanında gerçekleşen ürün satış işlemlerini takip etmek ve kaydetmek amacıyla geliştirilmiştir. SQL Server üzerinde oluşturulan Stored Procedure ile satış verileri kullanıcıya anlamlı bir tablo halinde sunulmaktadır.
 
-
-
 7-İngilizce Sözlük
 Bu projede access veri tabanı kullanılarak oluşturulan İngilizce kelimeler ve Türkçe karşılıklarını içeren  kullanıcıların 90 saniye içinde doğru bildikleri kelime sayısını  tutulması sağlanmıştır.
 
@@ -27,6 +25,8 @@ Bu proje, C# Windows Forms kullanarak bir PictureBox nesnesinin dikdörtgen bir 
 9-Veri Tabanı ile Mail ve Telefon Rehber Kayıt Modülü
 Kişi Rehberi, Windows Forms (C#) ve SQL Server kullanılarak geliştirilmiş basit bir rehber uygulamasıdır. Kullanıcılar, kişi bilgilerini veritabanına ekleyebilir, listeleyebilir, güncelleyebilir ve silebilir.
 
+10-İlişkili Tablolar İle Birleştirme Uygulamaları
+Bu proje, SQL Server üzerinde oluşturulan Ürün, Müşteri, Personel ve Hareketler tablolarını kullanarak, tablolar arasındaki ilişkileri SQL sorguları ile işleyip yeni bir tablo oluşturmaktadır. Oluşturulan bu tablo, C# WinForms uygulamasında DataGridView kontrolü kullanılarak görselleştirilmiştir.
 
 12-Form Üzerinde SQL Sorguları Çalıştırma Uygulaması
 Bu proje ile oluşturulan winform üzerinde richtextbox' a yazacağınız sql sorguları ile local' de yer alan istediğiniz veri tabanını ve tablosunu  seçerek sql sorguları ile çalışmalar yapabilirsiniz.
