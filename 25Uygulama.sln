@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_09RehberKayit", "09_Rehber
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10İlişikliTablolarileBirleştirmeUygulamaları", "_10İlişikliTablolarileBirleştirmeUygulamaları\_10İlişikliTablolarileBirleştirmeUygulamaları.csproj", "{58EFF4D1-F418-4921-8CC7-170032FA1BD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11Kullanıcılar Arası Veri Tabanı Bağlantısı ile Mesajlaşma Sistemi", "_11Kullanıcılar Arası Veri Tabanı Bağlantısı ile Mesajlaşma Sistemi\_11Kullanıcılar Arası Veri Tabanı Bağlantısı ile Mesajlaşma Sistemi.csproj", "{D089F58A-3B3E-4F6B-A917-EB57FC906F22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{58EFF4D1-F418-4921-8CC7-170032FA1BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58EFF4D1-F418-4921-8CC7-170032FA1BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58EFF4D1-F418-4921-8CC7-170032FA1BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D089F58A-3B3E-4F6B-A917-EB57FC906F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D089F58A-3B3E-4F6B-A917-EB57FC906F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D089F58A-3B3E-4F6B-A917-EB57FC906F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D089F58A-3B3E-4F6B-A917-EB57FC906F22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
