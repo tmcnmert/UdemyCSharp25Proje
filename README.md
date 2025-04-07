@@ -28,6 +28,9 @@ Kişi Rehberi, Windows Forms (C#) ve SQL Server kullanılarak geliştirilmiş ba
 10-İlişkili Tablolar İle Birleştirme Uygulamaları
 Bu proje, SQL Server üzerinde oluşturulan Ürün, Müşteri, Personel ve Hareketler tablolarını kullanarak, tablolar arasındaki ilişkileri SQL sorguları ile işleyip yeni bir tablo oluşturmaktadır. Oluşturulan bu tablo, C# WinForms uygulamasında DataGridView kontrolü kullanılarak görselleştirilmiştir.
 
+11-C# WinForms Mesajlaşma Uygulaması
+Bu proje, C# ve SQL Server kullanılarak geliştirilmiş basit bir mesajlaşma uygulamasıdır. Kullanıcılar, sistemdeki diğer kullanıcılara mesaj gönderebilir ve gelen/giden kutularını görüntüleyebilir.
+
 12-Form Üzerinde SQL Sorguları Çalıştırma Uygulaması
 Bu proje ile oluşturulan winform üzerinde richtextbox' a yazacağınız sql sorguları ile local' de yer alan istediğiniz veri tabanını ve tablosunu  seçerek sql sorguları ile çalışmalar yapabilirsiniz.
 
