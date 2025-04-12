@@ -34,6 +34,9 @@ Bu proje, C# ve SQL Server kullanılarak geliştirilmiş basit bir mesajlaşma u
 12-Form Üzerinde SQL Sorguları Çalıştırma Uygulaması
 Bu proje ile oluşturulan winform üzerinde richtextbox' a yazacağınız sql sorguları ile local' de yer alan istediğiniz veri tabanını ve tablosunu  seçerek sql sorguları ile çalışmalar yapabilirsiniz.
 
+13-Veri Tabanı Verilerini Şifreleme ve Şifreli Verileri Çözme Uygulaması
+Bu proje, kullanıcıdan alınan verileri (Ad, Soyad, Mail, Şifre, Hesap No) Base64 formatında şifreleyerek SQL Server veritabanına kaydeden bir Windows Forms uygulamasıdır. Aynı zamanda şifrelenmiş verilerin çözülebilmesini de sağlar.
+
 
 
 
