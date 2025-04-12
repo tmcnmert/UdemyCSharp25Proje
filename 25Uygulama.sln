@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10İlişikliTablolarileBir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_11Kullanıcılar Arası Veri Tabanı Bağlantısı ile Mesajlaşma Sistemi", "_11Kullanıcılar Arası Veri Tabanı Bağlantısı ile Mesajlaşma Sistemi\_11Kullanıcılar Arası Veri Tabanı Bağlantısı ile Mesajlaşma Sistemi.csproj", "{D089F58A-3B3E-4F6B-A917-EB57FC906F22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13SifreliVeriler", "_13SifreliVeriler\_13SifreliVeriler.csproj", "{8EDD9F33-79C1-4E55-BD07-0F2BCADAEBA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D089F58A-3B3E-4F6B-A917-EB57FC906F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D089F58A-3B3E-4F6B-A917-EB57FC906F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D089F58A-3B3E-4F6B-A917-EB57FC906F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDD9F33-79C1-4E55-BD07-0F2BCADAEBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDD9F33-79C1-4E55-BD07-0F2BCADAEBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDD9F33-79C1-4E55-BD07-0F2BCADAEBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDD9F33-79C1-4E55-BD07-0F2BCADAEBA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
