@@ -40,5 +40,12 @@ Kullanıcıdan alınan verileri Base64 formatında şifreler ve çözme işlemin
 ## 1️⃣4️⃣ Bankamatik Sistemi
 Bankamatik (ATM) işlemleri simüle eden bir uygulamadır. Kullanıcılar, kullanıcı kodu ve şifre ile sisteme giriş yaparak para transferi işlemleri gerçekleştirebilir. Hesap hareketleri kullanıcıya gösterilir. 🏦💳
 
+## 1️⃣5️⃣ Etüt & Ders Kayıt Sistemi
+Bu proje, bir dershane ortamında etüt oluşturma ve oluşturulan etütlerin, sistemde kayıtlı olan öğrencilere ve öğretmenlere atanması sürecini simüle etmektedir.
+Veri tabanı yapısı ilişkisel tablolar kullanılarak tasarlanmıştır. Yeni öğrenci, öğretmen ve ders kayıtları sırasında mükerrer kayıtların oluşması engellenmiş, veri bütünlüğü korunmuştur.
+
+## 1️⃣6️⃣ Kitap Takip Otomasyonu📚
+Bu Windows Forms uygulaması, kitap ekleme, listeleme ve silme işlemlerini kolayca yapabileceğiniz basit bir Kitap Takip Otomasyonu sistemidir. Veritabanı işlemleri SQL Server ile gerçekleştirilmiştir. Ayrıca, trigger yapısı ile silinen kitap sayısı otomatik olarak ayrı bir sayaç tablosunda güncellenmektedir.
+
 ## 2️⃣2️⃣ Rss İle Haber Başlıkları Çekme
 Xml paketi ile, WinForm üzerinde haber sitelerinin günlük haber başlıklarını çekebilirsiniz. 📰🌐
