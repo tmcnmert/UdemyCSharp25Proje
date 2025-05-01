@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_14BankaTest", "_14BankaTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_15EtütSistemi", "15_EtütSistemi\_15EtütSistemi.csproj", "{916C79FA-2A29-4CFF-93A6-0610CA7E43C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_16TestTrigger", "_16TestTrigger\_16TestTrigger.csproj", "{70C3FC7C-FF67-4D2A-A0DB-A6EF62D94D81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{916C79FA-2A29-4CFF-93A6-0610CA7E43C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{916C79FA-2A29-4CFF-93A6-0610CA7E43C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{916C79FA-2A29-4CFF-93A6-0610CA7E43C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C3FC7C-FF67-4D2A-A0DB-A6EF62D94D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C3FC7C-FF67-4D2A-A0DB-A6EF62D94D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C3FC7C-FF67-4D2A-A0DB-A6EF62D94D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C3FC7C-FF67-4D2A-A0DB-A6EF62D94D81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
