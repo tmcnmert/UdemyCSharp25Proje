@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13SifreliVeriler", "_13Sif
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_14BankaTest", "_14BankaTest\_14BankaTest.csproj", "{FC18A3F0-2C50-4095-B6A6-C98A3F3D65FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_EtütSistemi", "15_EtütSistemi\15_EtütSistemi.csproj", "{916C79FA-2A29-4CFF-93A6-0610CA7E43C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{FC18A3F0-2C50-4095-B6A6-C98A3F3D65FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC18A3F0-2C50-4095-B6A6-C98A3F3D65FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC18A3F0-2C50-4095-B6A6-C98A3F3D65FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916C79FA-2A29-4CFF-93A6-0610CA7E43C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916C79FA-2A29-4CFF-93A6-0610CA7E43C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916C79FA-2A29-4CFF-93A6-0610CA7E43C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916C79FA-2A29-4CFF-93A6-0610CA7E43C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
