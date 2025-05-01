@@ -1,61 +1,44 @@
-1-Not Kayıt Sistemi
-Proje giriş sayfası, öğretmen işlemleri sayfası ve öğrenci bilgi sayfasından oluşmaktadır.
+## 1️⃣ Not Kayıt Sistemi
+Proje, giriş sayfası, öğretmen işlemleri sayfası ve öğrenci bilgi sayfasından oluşmaktadır.
 
-2-Grafiksel Seçim Sistemi
-Seçim bölgelerinin ve oy oranları veri tabanına kayıt edildikten sonra seçim sonuçlarının grafik olarak yansıtılması. 
+## 2️⃣ Grafiksel Seçim Sistemi
+Seçim bölgelerinin ve oy oranlarının veri tabanına kayıt edilmesinin ardından seçim sonuçları grafiksel olarak yansıtılır.
 
-3-Passaparola Oyunu
-Bu proje, C# ile Windows Form uygulaması olarak geliştirilmiş bir "Passaparola" (Kelime Tahmin) oyunudur. Oyunda kullanıcıya belirli harflerle başlayan sorular sorulur ve doğru cevap verdiğinde ilgili buton yeşil, yanlış cevap verdiğinde kırmızı olur.
+## 3️⃣ Passaparola Oyunu
+C# ile Windows Form uygulaması olarak geliştirilmiş bir "Passaparola" (Kelime Tahmin) oyunudur. Oyunda kullanıcıya belirli harflerle başlayan sorular sorulur ve doğru cevap verdiğinde buton yeşil, yanlış cevap verdiğinde kırmızı olur. 🟢🔴
 
-4-Döviz Bürosu
-Bu projede TCMB tarafından güncel döviz kurlarının yayınlandıgı https://www.tcmb.gov.tr/kurlar/today.xml web adresinden anlık olarak güncellenecek sekilde dolar ve euro kurları bilgileri alınmıştır. Program ile kullanıcı tarafından yapılan al sat işlemlerinin ardından SQL Server veri tabanı kullanılarak oluşturulan kasa varlık bilgilerinin görünmesi sağlanmıştır.
+## 4️⃣ Döviz Bürosu
+Bu projede, TCMB tarafından sağlanan döviz kuru verileri alınarak kullanıcıların al-sat işlemleri yapması sağlanmıştır. SQL Server veritabanı ile kasa varlık bilgileri görüntülenir. 💵💶
 
-5-Kişisel Film Arşiv ve İzleme Sistemi
-Bu program, SQL Server kullanılarak oluşturulan bir veritabanına favori filmlerinizin web adreslerini kaydetmenize olanak tanır. Programda yer alan WebBrowser aracı sayesinde, kaydettiğiniz filmleri kolayca izleyebilirsiniz. Ayrıca, programda bulunan Tam Ekran İzle butonu ile filmleri tam ekran izleme keyfini yaşayabilir, Arka Plan Değiştir butonuyla da programın arka planını rastgele değiştirebilirsiniz.
+## 5️⃣ Kişisel Film Arşiv ve İzleme Sistemi
+Bu program, favori filmlerinizin web adreslerini kaydetmenizi ve kaydettiğiniz filmleri izleyebilmenizi sağlar. Ayrıca, programın arka planını değiştirebilirsiniz. 🎥🍿
 
-6-İlişkili Veri Tabanı Hareket Tablo ve Sorgulama Uygulaması
-Bu proje, bir mağaza veritabanında gerçekleşen ürün satış işlemlerini takip etmek ve kaydetmek amacıyla geliştirilmiştir. SQL Server üzerinde oluşturulan Stored Procedure ile satış verileri kullanıcıya anlamlı bir tablo halinde sunulmaktadır.
+## 6️⃣ İlişkili Veri Tabanı Hareket Tablo ve Sorgulama Uygulaması
+Bu proje, bir mağaza veritabanında gerçekleşen ürün satış işlemlerini takip etmek için geliştirilmiştir. SQL Server ile kullanıcıya anlamlı bir tablo sunulur. 🏪📊
 
-7-İngilizce Sözlük
-Bu projede access veri tabanı kullanılarak oluşturulan İngilizce kelimeler ve Türkçe karşılıklarını içeren  kullanıcıların 90 saniye içinde doğru bildikleri kelime sayısını  tutulması sağlanmıştır.
+## 7️⃣ İngilizce Sözlük
+Access veritabanı ile İngilizce kelimeler ve Türkçe karşılıkları içerir. Kullanıcılar, 90 saniye içinde doğru bildikleri kelime sayısını görür. 📚🗣️
 
-8-Nesnelerin Hareketi
-Bu proje, C# Windows Forms kullanarak bir PictureBox nesnesinin dikdörtgen bir yol boyunca sürekli hareket etmesini sağlar.
+## 8️⃣ Nesnelerin Hareketi
+C# Windows Forms ile bir PictureBox nesnesi dikdörtgen bir yol boyunca sürekli hareket eder. 🖼️🏃‍♂️
 
-9-Veri Tabanı ile Mail ve Telefon Rehber Kayıt Modülü
-Kişi Rehberi, Windows Forms (C#) ve SQL Server kullanılarak geliştirilmiş basit bir rehber uygulamasıdır. Kullanıcılar, kişi bilgilerini veritabanına ekleyebilir, listeleyebilir, güncelleyebilir ve silebilir.
+## 9️⃣ Veri Tabanı ile Mail ve Telefon Rehber Kayıt Modülü
+Kişi rehberi uygulamasıdır. Kullanıcılar, kişi bilgilerini ekleyebilir, listeleyebilir, güncelleyebilir ve silebilir. 📇📞
 
-10-İlişkili Tablolar İle Birleştirme Uygulamaları
-Bu proje, SQL Server üzerinde oluşturulan Ürün, Müşteri, Personel ve Hareketler tablolarını kullanarak, tablolar arasındaki ilişkileri SQL sorguları ile işleyip yeni bir tablo oluşturmaktadır. Oluşturulan bu tablo, C# WinForms uygulamasında DataGridView kontrolü kullanılarak görselleştirilmiştir.
+## 🔟 İlişkili Tablolar İle Birleştirme Uygulamaları
+SQL Server üzerinde oluşturulan çeşitli tabloları kullanarak ilişkileri işleyip yeni bir tablo oluşturur. DataGridView kontrolü ile görselleştirilir. 🔗📑
 
-11-C# WinForms Mesajlaşma Uygulaması
-Bu proje, C# ve SQL Server kullanılarak geliştirilmiş basit bir mesajlaşma uygulamasıdır. Kullanıcılar, sistemdeki diğer kullanıcılara mesaj gönderebilir ve gelen/giden kutularını görüntüleyebilir.
+## 1️⃣1️⃣ C# WinForms Mesajlaşma Uygulaması
+Kullanıcılar arasında mesajlaşma sağlayan basit bir uygulamadır. C# ve SQL Server kullanılarak geliştirilmiştir. 💬📩
 
-12-Form Üzerinde SQL Sorguları Çalıştırma Uygulaması
-Bu proje ile oluşturulan winform üzerinde richtextbox' a yazacağınız sql sorguları ile local' de yer alan istediğiniz veri tabanını ve tablosunu  seçerek sql sorguları ile çalışmalar yapabilirsiniz.
+## 1️⃣2️⃣ Form Üzerinde SQL Sorguları Çalıştırma Uygulaması
+Bu uygulama, SQL sorguları ile veritabanı üzerinde çalışmalar yapmanızı sağlar. 💻📊
 
-13-Veri Tabanı Verilerini Şifreleme ve Şifreli Verileri Çözme Uygulaması
-Bu proje, kullanıcıdan alınan verileri (Ad, Soyad, Mail, Şifre, Hesap No) Base64 formatında şifreleyerek SQL Server veritabanına kaydeden bir Windows Forms uygulamasıdır. Aynı zamanda şifrelenmiş verilerin çözülebilmesini de sağlar.
+## 1️⃣3️⃣ Veri Tabanı Verilerini Şifreleme ve Şifreli Verileri Çözme Uygulaması
+Kullanıcıdan alınan verileri Base64 formatında şifreler ve çözme işlemini sağlar. 🔒🔓
 
+## 1️⃣4️⃣ Bankamatik Sistemi
+Bankamatik (ATM) işlemleri simüle eden bir uygulamadır. Kullanıcılar, kullanıcı kodu ve şifre ile sisteme giriş yaparak para transferi işlemleri gerçekleştirebilir. Hesap hareketleri kullanıcıya gösterilir. 🏦💳
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22-Rss İle Haber Başlıkları Çekme
-Bu projede Xml paketi ile winform' da listbox' a istediğimiz haber sitesinin günlük haber başlıklarının çekilmesi sağlanmıştır.
-
-
-
-
+## 2️⃣2️⃣ Rss İle Haber Başlıkları Çekme
+Xml paketi ile, WinForm üzerinde haber sitelerinin günlük haber başlıklarını çekebilirsiniz. 📰🌐
