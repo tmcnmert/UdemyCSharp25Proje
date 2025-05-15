@@ -37,6 +37,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_15EtütSistemi", "15_Etüt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_16TestTrigger", "_16TestTrigger\_16TestTrigger.csproj", "{70C3FC7C-FF67-4D2A-A0DB-A6EF62D94D81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_17Yolcu Bilet Rezervasyon & Kayıt Sistemi", "_17Yolcu Bilet Rezervasyon & Kayıt Sistemi\_17Yolcu Bilet Rezervasyon & Kayıt Sistemi.csproj", "{4DFD6011-BE71-4491-B7FF-1B3D3FE29281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_18Petrol & Akaryakıt Stok Takip Sistemi", "_18Petrol & Akaryakıt Stok Takip Sistemi\_18Petrol & Akaryakıt Stok Takip Sistemi.csproj", "{A2DBCCA3-1282-4494-A1E8-27B23719A978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_19ResimTest", "_19ResimTest\_19ResimTest.csproj", "{C40E5AAE-5ACD-4AF7-B903-3C52A8FAF2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_20ExcelVeriTabanıileTemelKayıtİşlemleri(Ekle, Listele, Sil)", "_20ExcelVeriTabanıileTemelKayıtİşlemleri(Ekle, Listele, Sil)\_20ExcelVeriTabanıileTemelKayıtİşlemleri(Ekle, Listele, Sil).csproj", "{973B8CCC-BC21-4375-874D-0E5A5DD1ED71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_21PastahaneÜrünMaliyetlendirmeSistemi", "_21PastahaneÜrünMaliyetlendirmeSistemi\_21PastahaneÜrünMaliyetlendirmeSistemi.csproj", "{FE49FEA5-9041-4BAB-88F8-B80794507021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_23 List Yapısı ve List ile Öğrenci Bilgileri Kaydetme Uygulaması", "_23 List Yapısı ve List ile Öğrenci Bilgileri Kaydetme Uygulaması\_23 List Yapısı ve List ile Öğrenci Bilgileri Kaydetme Uygulaması.csproj", "{B5A27CBB-FAEC-4F32-857E-4368B0476E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_24Sınıf Üzerinden Veri Tabanı İşlemleri (OOP+ Database)", "_24Sınıf Üzerinden Veri Tabanı İşlemleri (OOP+ Database)\_24Sınıf Üzerinden Veri Tabanı İşlemleri (OOP+ Database).csproj", "{380650DD-5212-41CB-9FCD-42573AB4FE68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +125,34 @@ Global
 		{70C3FC7C-FF67-4D2A-A0DB-A6EF62D94D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70C3FC7C-FF67-4D2A-A0DB-A6EF62D94D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70C3FC7C-FF67-4D2A-A0DB-A6EF62D94D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFD6011-BE71-4491-B7FF-1B3D3FE29281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFD6011-BE71-4491-B7FF-1B3D3FE29281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFD6011-BE71-4491-B7FF-1B3D3FE29281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFD6011-BE71-4491-B7FF-1B3D3FE29281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DBCCA3-1282-4494-A1E8-27B23719A978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DBCCA3-1282-4494-A1E8-27B23719A978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DBCCA3-1282-4494-A1E8-27B23719A978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DBCCA3-1282-4494-A1E8-27B23719A978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40E5AAE-5ACD-4AF7-B903-3C52A8FAF2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40E5AAE-5ACD-4AF7-B903-3C52A8FAF2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40E5AAE-5ACD-4AF7-B903-3C52A8FAF2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40E5AAE-5ACD-4AF7-B903-3C52A8FAF2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973B8CCC-BC21-4375-874D-0E5A5DD1ED71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973B8CCC-BC21-4375-874D-0E5A5DD1ED71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973B8CCC-BC21-4375-874D-0E5A5DD1ED71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973B8CCC-BC21-4375-874D-0E5A5DD1ED71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE49FEA5-9041-4BAB-88F8-B80794507021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE49FEA5-9041-4BAB-88F8-B80794507021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE49FEA5-9041-4BAB-88F8-B80794507021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE49FEA5-9041-4BAB-88F8-B80794507021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A27CBB-FAEC-4F32-857E-4368B0476E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A27CBB-FAEC-4F32-857E-4368B0476E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A27CBB-FAEC-4F32-857E-4368B0476E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A27CBB-FAEC-4F32-857E-4368B0476E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380650DD-5212-41CB-9FCD-42573AB4FE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380650DD-5212-41CB-9FCD-42573AB4FE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380650DD-5212-41CB-9FCD-42573AB4FE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380650DD-5212-41CB-9FCD-42573AB4FE68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
